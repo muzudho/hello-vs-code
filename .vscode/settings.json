@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Cascadia Mono'",
+    "editor.codeLensFontFamily": "'Cascadia Mono'",
+    "editor.experimentalInlineEdit.fontFamily": "'Cascadia Mono'",
+    "editor.inlayHints.fontFamily": "'Cascadia Mono'",
+    "editor.inlineSuggest.fontFamily": "'Cascadia Mono'",
+    "scm.inputFontFamily": "'Cascadia Mono'",
+    "markdown.preview.fontFamily": "'Cascadia Mono'"
+}
