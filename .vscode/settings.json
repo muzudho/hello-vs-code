@@ -1,9 +1,9 @@
 {
-    "editor.fontFamily": "'Cascadia Mono'",
-    "editor.codeLensFontFamily": "'Cascadia Mono'",
-    "editor.experimentalInlineEdit.fontFamily": "'Cascadia Mono'",
-    "editor.inlayHints.fontFamily": "'Cascadia Mono'",
-    "editor.inlineSuggest.fontFamily": "'Cascadia Mono'",
-    "scm.inputFontFamily": "'Cascadia Mono'",
-    "markdown.preview.fontFamily": "'Cascadia Mono'"
+    "editor.fontFamily": "'Cascadia Next JP ExtraLight'",
+    "editor.codeLensFontFamily": "'Cascadia Next JP ExtraLight'",
+    "editor.experimentalInlineEdit.fontFamily": "'Cascadia Next JP ExtraLight'",
+    "editor.inlayHints.fontFamily": "'Cascadia Next JP ExtraLight'",
+    "editor.inlineSuggest.fontFamily": "'Cascadia Next JP ExtraLight'",
+    "scm.inputFontFamily": "'Cascadia Next JP ExtraLight'",
+    "markdown.preview.fontFamily": "'Cascadia Next JP ExtraLight'"
 }
